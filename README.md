@@ -8,8 +8,8 @@ Enter:
     Enter the youtube link where the clicks will land on
     for example <https://www.youtube.com/watch?v=LXb3EKWsInQ>
   <clicks> 
-    How many clicks do you want
-    for example <5..100000>
+          How many clicks do you want
+          for example <5..100000>
   <watch time> 
     How long should watch each user in secounds
     for example <1s..10000000s>
