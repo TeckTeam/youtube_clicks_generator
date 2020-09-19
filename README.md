@@ -2,7 +2,7 @@
 
 Enter:
   
-  python3 clicks_gen <URL> <clicks> <watch time> <proxy>
+    python3 clicks_gen <URL> <clicks> <watch time> <proxy>
   
   # <URL> 
     Enter the youtube link where the clicks will land on
