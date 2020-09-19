@@ -6,7 +6,7 @@
 
 # Enter:
   
-    python3 clicks_gen <URL> <clicks> <watch time> <proxy>
+    python3 youtube_clicks_generator <URL> <clicks> <watch time> <proxy>
   
 # Explanation:
     <URL>
