@@ -18,13 +18,13 @@ Enter:
     for example <yes|no>
 
 # You need:
-  -> a linux mashine with 4 cores or more
-  -> internet connection 
-  -> python 3.x
-  -> pip3
-  -> firefox
-  -> pkill
-  # If you want the proxy:
+  -> a linux mashine with 4 cores or more\n
+  -> internet connection\n
+  -> python 3.x\n
+  -> pip3\n
+  -> firefox\n
+  -> pkill\n
+# If you want the proxy:
     -> tor
     -> proxychains
     
