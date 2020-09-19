@@ -1,10 +1,10 @@
 # Youtube clicks generator
 
-Enter:
+# Enter:
   
     python3 clicks_gen <URL> <clicks> <watch time> <proxy>
   
-Explanation:
+# Explanation:
     <URL>
         Enter the youtube link where the clicks will land on
         for example <https://www.youtube.com/watch?v=LXb3EKWsInQ>
