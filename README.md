@@ -24,7 +24,9 @@ Enter:
     -> pip3
     -> firefox
     -> pkill
-# If you want the proxy:
+    
+    
+    If you want the proxy:
     -> tor
     -> proxychains
     
